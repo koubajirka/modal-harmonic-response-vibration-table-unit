@@ -38,4 +38,14 @@ Key features:
 
 [![modal16](https://img.youtube.com/vi/t2gqqAlSjo0/0.jpg)](https://www.youtube.com/watch?v=t2gqqAlSjo0)
 
-*An example of the system response to the 
+*An example of the system response to the harmonic force excitation at **65** Hz:* (click on thumbnail for YT video)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-p6AUiGJVrg/0.jpg)](https://www.youtube.com/watch?v=-p6AUiGJVrg)
+
+*An example of the system response to the harmonic force excitation at **95** Hz:* (click on thumbnail for YT video)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rGFL7ZXis28/0.jpg)](https://www.youtube.com/watch?v=rGFL7ZXis28)
+
+*An example of the system response to the harmonic force excitation at **140** Hz:* (click on thumbnail for YT video)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lg5U8xbU8YQ/0.jpg)](https://www.youtube.com/watch?v=lg5U8xbU8YQ)
