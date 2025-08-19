@@ -3,7 +3,9 @@ A preview of results from an ANSYS project regarding modal analysis and harmonic
 
 ## Description
 This is a preview of my ANSYS project devoted to modal analysis and harmonic response of a testing vibration table unit.
-The unit is inspired by a real testing table in a real dynamic testing facility (see image).
+The unit is inspired by a real testing table in a real dynamic testing facility (see images).
+
+
 ![foto](images/table.jpg)
 
 Key features:
@@ -34,3 +36,5 @@ Key features:
 *An example of the sixteenth mode shape (261 Hz)* (click on thumbnail for YT video) 
 
 [![modal16](https://img.youtube.com/vi/t2gqqAlSjo0/0.jpg)](https://www.youtube.com/watch?v=t2gqqAlSjo0)
+
+*An example of the system response to the 
