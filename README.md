@@ -19,3 +19,18 @@ Key features:
 
 [![modal1](https://img.youtube.com/vi/t_31BR5LdCg/0.jpg)](https://www.youtube.com/watch?v=t_31BR5LdCg)
 
+*An example of the second mode shape (94 Hz)*
+
+[![modal2](https://img.youtube.com/vi/_ICnl_JK4wc/0.jpg)](https://www.youtube.com/watch?v=_ICnl_JK4wc)
+
+*An example of the third mode shape (137 Hz)*
+
+[![modal3](https://img.youtube.com/vi/DK5_Polxvik/0.jpg)](https://www.youtube.com/watch?v=DK5_Polxvik)
+
+*An example of the sixth mode shape (144 Hz)*
+
+[![modal6](https://img.youtube.com/vi/CG_lOBtkVJY/0.jpg)](https://www.youtube.com/watch?v=CG_lOBtkVJY)
+
+*An example of the sixteenth mode shape (261 Hz)*
+
+[![modal16](https://img.youtube.com/vi/t2gqqAlSjo0/0.jpg)](https://www.youtube.com/watch?v=t2gqqAlSjo0)
