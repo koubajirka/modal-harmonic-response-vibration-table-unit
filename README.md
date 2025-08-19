@@ -40,12 +40,15 @@ Key features:
 
 *An example of the system response to the harmonic force excitation at **65** Hz:* (click on thumbnail for YT video)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-p6AUiGJVrg/0.jpg)](https://www.youtube.com/watch?v=-p6AUiGJVrg)
+[![harmonic2](https://img.youtube.com/vi/-p6AUiGJVrg/0.jpg)](https://www.youtube.com/watch?v=-p6AUiGJVrg)
 
 *An example of the system response to the harmonic force excitation at **95** Hz:* (click on thumbnail for YT video)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rGFL7ZXis28/0.jpg)](https://www.youtube.com/watch?v=rGFL7ZXis28)
+[![harmonic4](https://img.youtube.com/vi/rGFL7ZXis28/0.jpg)](https://www.youtube.com/watch?v=rGFL7ZXis28)
 
 *An example of the system response to the harmonic force excitation at **140** Hz:* (click on thumbnail for YT video)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lg5U8xbU8YQ/0.jpg)](https://www.youtube.com/watch?v=lg5U8xbU8YQ)
+[![harmonic7](https://img.youtube.com/vi/lg5U8xbU8YQ/0.jpg)](https://www.youtube.com/watch?v=lg5U8xbU8YQ)
+
+All the videos are available in the /video directory.
+All the .prt and .scdoc files are available in the /src directory.
