@@ -17,5 +17,5 @@ Key features:
 
 *An example of free oscilation (0 Hz):* 
 
-![modal1](video/modal1.mp4)
+[![modal1](https://img.youtube.com/vi/t_31BR5LdCg/0.jpg)](https://www.youtube.com/watch?v=t_31BR5LdCg)
 
